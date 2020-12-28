@@ -29,7 +29,7 @@ Issues Observed:
 
 When we run, getting below issue:
 
-This is it looks testng version compatability issue (by 28/12/2020 - 07:06AM IST)
+It looks testng version compatability issue (by 28/12/2020 - 07:06AM IST)
 
 java.lang.NoSuchMethodError: org.testng.TestRunner.addListener(Ljava/lang/Object;)V
 	at org.testng.remote.support.RemoteTestNG6_9_10$1.newTestRunner(RemoteTestNG6_9_10.java:32)
